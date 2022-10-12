@@ -1,4 +1,4 @@
-The joystick library I use: https://github.com/MHeironimus/ArduinoJoystickLibrary .
+Hello, The joystick library I use: https://github.com/MHeironimus/ArduinoJoystickLibrary .
 Pins;
 A0-Potantiometer
 A1-Potantiometer
